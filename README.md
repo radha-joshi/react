@@ -1,0 +1,1 @@
+ This repository is a collection of code snippets, exercises, and small projects I've created while learning React. It's a digital scratchpad for my progress.
